@@ -1,4 +1,5 @@
 {
+    "name": "alexmorbo/homeassistant",
     "type": "library",
     "license": "MIT",
     "description": "Library for connect to Home Assistant from symfony dockerized application",
